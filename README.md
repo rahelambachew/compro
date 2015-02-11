@@ -1,5 +1,3 @@
-# compro
-community project (compro)
 <!DOCTYPE html>
 <html>
 <head>
